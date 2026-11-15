@@ -32,7 +32,7 @@ OIBSIP/
 └── README.md   ← you are here 📍
 ```
 
-Each task folder contains its own source code, a dedicated `README.md`, and supporting screenshots/output files, as required by the program guidelines.
+Each task folder contains its own source code.
 
 ---
 
