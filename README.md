@@ -40,7 +40,7 @@ Each task folder contains its own source code, a dedicated `README.md`, and supp
 
 ### 1️⃣ 🏠 EDA on retail sales data
 
-**Folder:** [`DataAnalytics-L1-task1-EDA on retail sales data`](./DataAnalytics-L1-task1-EDA on retail sales data)
+**Folder:** [`DataAnalytics-L1-task1-EDA on retail sales data`](./DataAnalytics-L1-task1-EDA on retailsales data)
 
 **🎯 Objective:** To examine raw store sales numbers and uncover hidden patterns—like which products sell best, when sales peak, and who the main buyers are—so the business can make smarter decisions.
 
